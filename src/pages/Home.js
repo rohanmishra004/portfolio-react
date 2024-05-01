@@ -9,7 +9,8 @@ function Home() {
             <div className='about'>
                 <h2>Hi, My name is Rohan</h2>
                 <div className='prompt'>
-                    <p>A Software Developer with a passion to learn and create</p>
+                    <p>Full Stack AWS - Cloud developer with expertise in Back-end Development</p>
+                    <p>Working as a Senior FullStack Developer at Accenture</p>
                     <a href="https://www.linkedin.com/in/rohan-mishra-6b6b4190/" target="_blank" rel="noopener noreferrer">
                         <LinkedIn />
                     </a>

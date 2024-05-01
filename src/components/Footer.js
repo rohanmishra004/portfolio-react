@@ -8,8 +8,8 @@ function Footer() {
                 <LinkedIn />
                 <GitHub />
             </div>
-            <p>&copy; 2024 rohanmishra.com</p>
-
+            <p>&copy; 2024 <strong>Email:</strong> rohanmishra004@gmail.com </p >
+            <p><strong>Mobile:</strong>:969672427</p>
         </div>
     )
 }
